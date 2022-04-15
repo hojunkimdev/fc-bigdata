@@ -116,10 +116,10 @@ $ vi producer_test.conf
 input {
 
 twitter {
-consumer_key => "KoxofBvIwdM9xxxxvxg"
-consumer_secret => "kKBOnftLZ6htxvddgmZkzsixxxgpIHNoWtE"
-oauth_token => "81761998-2Vu19ZxxFwEyik7XZ4ubxxxbIXdP08fId4"
-oauth_token_secret => "0E6eh4X0eum4NU81LXIKn6xxx7asT8JxTo"
+consumer_key => "iu08H2spX2vvKbxtiRwTVkcPu"
+consumer_secret => "BgyYIIjty0QnetkPPF1LBJ1CgdK7fNi4GZhWRbZdDY2iE1FZRq"
+oauth_token => "81761998-8op8svS9wDTnpgvRmHZM3TAgnnpiqT0moAOGLcx4Q"
+oauth_token_secret => "kknETgw07ZkJOsdDBxeMc6Q9G47tZdgZKhie9xdH0SLXd"
 keywords => ["news","game","bigdata","부동산"]
 full_tweet => true
 }
